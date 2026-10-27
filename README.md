@@ -9,7 +9,7 @@ ToolVersionPurposePostgreSQL18Data cleaning + analytical queriesPython3.xEDA, an
 https://www.kaggle.com/datasets/aryan208/financial-transactions-dataset-for-fraud-detection
 
 
-Step 1 — SQL
+Step 1 — SQL.
 
 Goal: data cleaning + 10 analytical queries
 
