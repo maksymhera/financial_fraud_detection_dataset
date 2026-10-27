@@ -11,7 +11,7 @@ https://www.kaggle.com/datasets/aryan208/financial-transactions-dataset-for-frau
 
 Step 1 — SQL.
 
-Goal: data cleaning + 10 analytical queries
+Goal: data cleaning + 10 analytical queries.
 
 Data Cleaning
 
