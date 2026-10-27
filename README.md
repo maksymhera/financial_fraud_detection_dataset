@@ -144,4 +144,4 @@ Total fraudulent transactions: ~50,690 out of 5,000,000
 Fraud is evenly distributed across all cities and devices (synthetic dataset)
 spending_deviation_score, velocity_score, geo_anomaly_score show near-zero correlation with is_fraud (r ≈ 0.0002–0.0004)
 Z-score anomalies (threshold > 3): 77,785 transactions
-IQR anomalies: 412,449 transactions.
+IQR anomalies: 412,449 transactions..
