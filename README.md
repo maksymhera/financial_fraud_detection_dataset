@@ -59,7 +59,7 @@ Analysis
 Time series — monthly COUNT and SUM(amount) dynamics
 Anomaly detection Z-score — threshold > 3
 Anomaly detection IQR — compare results with Z-score
-Correlation — spending_deviation_score, velocity_score, geo_anomaly_score vs is_fraud
+Correlation — spending_deviation_score, velocity_score, geo_anomaly_score vs is_fraud.
 
 
 Charts (5 unique visualizations)
